@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/I-POD-STARTER-CODE-FORKED/static/css/main.e3f93119.chunk.css",
+    "main.js": "/I-POD-STARTER-CODE-FORKED/static/js/main.70b7aad1.chunk.js",
+    "main.js.map": "/I-POD-STARTER-CODE-FORKED/static/js/main.70b7aad1.chunk.js.map",
+    "runtime-main.js": "/I-POD-STARTER-CODE-FORKED/static/js/runtime-main.cea559c3.js",
+    "runtime-main.js.map": "/I-POD-STARTER-CODE-FORKED/static/js/runtime-main.cea559c3.js.map",
+    "static/js/2.ba5ffd7f.chunk.js": "/I-POD-STARTER-CODE-FORKED/static/js/2.ba5ffd7f.chunk.js",
+    "static/js/2.ba5ffd7f.chunk.js.map": "/I-POD-STARTER-CODE-FORKED/static/js/2.ba5ffd7f.chunk.js.map",
+    "index.html": "/I-POD-STARTER-CODE-FORKED/index.html",
+    "precache-manifest.6f5b47bd2e3010c79f75cc9635717e75.js": "/I-POD-STARTER-CODE-FORKED/precache-manifest.6f5b47bd2e3010c79f75cc9635717e75.js",
+    "service-worker.js": "/I-POD-STARTER-CODE-FORKED/service-worker.js",
+    "static/css/main.e3f93119.chunk.css.map": "/I-POD-STARTER-CODE-FORKED/static/css/main.e3f93119.chunk.css.map",
+    "static/js/2.ba5ffd7f.chunk.js.LICENSE.txt": "/I-POD-STARTER-CODE-FORKED/static/js/2.ba5ffd7f.chunk.js.LICENSE.txt",
+    "static/media/John Denver - Country Roads.jpg": "/I-POD-STARTER-CODE-FORKED/static/media/John Denver - Country Roads.4319d6cf.jpg",
+    "static/media/John Denver - Country Roads.mp3": "/I-POD-STARTER-CODE-FORKED/static/media/John Denver - Country Roads.a9f11dd7.mp3",
+    "static/media/Khalid - Young Dumb Broke.jpg": "/I-POD-STARTER-CODE-FORKED/static/media/Khalid - Young Dumb Broke.44e90427.jpg",
+    "static/media/Khalid - Young Dumb Broke.mp3": "/I-POD-STARTER-CODE-FORKED/static/media/Khalid - Young Dumb Broke.e92d0309.mp3",
+    "static/media/Never Gonna Give You Up.png": "/I-POD-STARTER-CODE-FORKED/static/media/Never Gonna Give You Up.c5047b1e.png",
+    "static/media/Post Malone - White Iverson.mp3": "/I-POD-STARTER-CODE-FORKED/static/media/Post Malone - White Iverson.4977e46c.mp3",
+    "static/media/Post Malone - White Iverson.png": "/I-POD-STARTER-CODE-FORKED/static/media/Post Malone - White Iverson.4e3646ce.png",
+    "static/media/Rick Astley - Never Gonna Give You Up.mp3": "/I-POD-STARTER-CODE-FORKED/static/media/Rick Astley - Never Gonna Give You Up.ce3d38a9.mp3",
+    "static/media/Sigrid - High Five.mp3": "/I-POD-STARTER-CODE-FORKED/static/media/Sigrid - High Five.70ab2f27.mp3",
+    "static/media/Sigrid - High Five.png": "/I-POD-STARTER-CODE-FORKED/static/media/Sigrid - High Five.cc89aed5.png",
+    "static/media/game.jpg": "/I-POD-STARTER-CODE-FORKED/static/media/game.a82e9618.jpg",
+    "static/media/music.jpg": "/I-POD-STARTER-CODE-FORKED/static/media/music.9d6854c9.jpg",
+    "static/media/settings.png": "/I-POD-STARTER-CODE-FORKED/static/media/settings.f58b3905.png",
+    "static/media/wallpaper1.jpg": "/I-POD-STARTER-CODE-FORKED/static/media/wallpaper1.227f0ba9.jpg",
+    "static/media/wallpaper2.jpg": "/I-POD-STARTER-CODE-FORKED/static/media/wallpaper2.23077a93.jpg",
+    "static/media/wallpaper3.jpg": "/I-POD-STARTER-CODE-FORKED/static/media/wallpaper3.b2fda5ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cea559c3.js",
+    "static/js/2.ba5ffd7f.chunk.js",
+    "static/css/main.e3f93119.chunk.css",
+    "static/js/main.70b7aad1.chunk.js"
+  ]
+}
